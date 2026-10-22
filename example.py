@@ -1,6 +1,7 @@
 import pycristal as pc
 
 
+
 def sync_project():
     pc.info("Starting sync for project files...")
 
