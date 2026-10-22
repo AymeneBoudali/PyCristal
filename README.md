@@ -6,7 +6,10 @@ PyCristal is a lightweight, dependency-free Python library for beautiful termina
 
 ## Installation
 
-`pip install pycristal`
+- You can install PyCristal using the next *bash* command
+```bash
+pip install pycristal
+```
 
 ## Quick start
 
