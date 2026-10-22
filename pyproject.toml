@@ -1,0 +1,19 @@
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pycristal"
+version = "0.1.0"
+readme = "README.md"
+description = "Beautiful terminal messages for Python"
+authors = [
+    { name = "Meriem Boudali", email = "meriem.cute23@gmail.com" },
+]
+license = "MIT"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/MeriemBoudali/PyCristal"
+Repository = "https://github.com/MeriemBoudali/PyCristal"
