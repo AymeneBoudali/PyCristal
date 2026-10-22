@@ -1,4 +1,4 @@
-# PyCristal `v0.1.0`
+![PyCrystal](pycristal.png)
 
 **Give your Python terminal a little glow. ✨**
 
