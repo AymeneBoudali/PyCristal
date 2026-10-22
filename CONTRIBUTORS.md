@@ -5,6 +5,7 @@ A big thank you to everyone who helps make PyCristal better! ✨
 ## Contributors
 
 - **Meriem Boudali** `meriem.cute23@gmail.com`: **Creator**
+- **Aymene Boudali** `boudaliaymene4@gmail.com`
 
 ## How to Contribute
 
